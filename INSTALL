@@ -1,0 +1,9 @@
+Building MineCoin
+
+See doc/readme-qt.rst for instructions on building MineCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MineCoin.
+
+See doc/build-*.txt for instructions on building minecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MineCoin.
